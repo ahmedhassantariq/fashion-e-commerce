@@ -6,4 +6,4 @@ Minor effort to learn CSS
 - As a Back-End Developer, I've developed a Love Hate Relationship with CSS.
 
 
-![alt text](https://github.com/ahmedhassantariq/fashion-e-commerce/blob/main/images/cloth-1.png)
+![alt text](https://github.com/ahmedhassantariq/fashion-e-commerce/blob/main/images/web-image.png)
